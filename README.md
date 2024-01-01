@@ -1,6 +1,6 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 30.12.2023 
 
 ## AIM:
 
@@ -54,9 +54,15 @@
 
 ## Output:
 
+![Screenshot 2024-01-01 183646](https://github.com/rdivyav/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148604723/88c54814-29c2-4a9a-82d2-2011c89b73bd)
 
-### Name:
-### Register Number: 
+![Screenshot 2024-01-01 183714](https://github.com/rdivyav/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148604723/f7426ac8-731c-4314-8d33-522973d6a78d)
+
+![Screenshot 2024-01-01 183737](https://github.com/rdivyav/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148604723/434aeee8-954e-47cd-bd4a-919061ec1fd2)
+
+### Name: Divya R V
+### Register Number: 23014030
+![Screenshot 2024-01-01 183737](https://github.com/rdivyav/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/148604723/f6e084cc-a197-4f75-94c7-e3d7c37a8886)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
